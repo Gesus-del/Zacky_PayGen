@@ -1,5 +1,5 @@
 # Zacky_PayGen
-A simple and usage payload generator tool for educational purposes.
+A simple and usage payload generator tool for educational purpose.
 
 
 A **quick** way to generate various "basic" Meterpreter payloads via `msfvenom` (part of the Metasploit framework).
