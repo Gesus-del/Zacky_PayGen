@@ -29,7 +29,7 @@ If you want to bypass Antivirus see for more of my tools :)
 + Designed for **Kali Linux v2.x/Rolling** & **Metasploit v4.11+**.
 
 ```
-$ curl -k -L "https://github.com/Gesus-del/Zacky_PayGen/Zacky_PayGen.sh" > /usr/local/bin/Zacky_PayGen
+$ sudo git clone https://github.com/Gesus-del/Zacky_PayGen/edit/Zacky_PayGen
 $ chmod +x /usr/local/bin/Zacky_PayGen
 ```
 ### Kali-Linux
