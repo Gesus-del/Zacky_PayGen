@@ -18,6 +18,17 @@
 #    shell/bind_tcp - Staged (Requires Metasploit)            #
 #-------------------------------------------------------------#
 
+###############################################################
+#  Useful Manual Commands:                                    #
+#    msfvenom --list payloads                                 #
+#    msfvenom --list encoders                                 #
+#    msfvenom --help-formats                                  #
+#                             ---                             #
+#  Reminder about payload names:                              #
+#    shell_bind_tcp - Single / Inline / NonStaged / Stageless #
+#    shell/bind_tcp - Staged (Requires Metasploit)            #
+#-------------------------------------------------------------#
+
 #--Quick Install----------------------------------------------#
 #  curl -k -L "https://github.com/Gesus-del/Zacky_PayGen/Zacky_PayGen.sh" > /usr/bin/Zacky_PayGen; chmod +x /usr/bin/Zacky_PayGen                                         
 #-Defaults----------------------------------------------------#
